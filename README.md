@@ -255,7 +255,7 @@ jobs:
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/luckytechhub2">
+  <a href="https://github.com/luckytechhub2/Lucky-XD">
     <img src="https://github-readme-stats.vercel.app/api?username=luckytechhub&show_icons=true&theme=radical" />
   </a>
 </p>
