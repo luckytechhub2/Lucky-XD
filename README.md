@@ -14,11 +14,11 @@
 
   <!-- GitHub Stats Badges with new color palette -->
   <p>
-    <img src="https://img.shields.io/github/forks/luckytechhub/Lucky-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/luckytechhub?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/luckytechhub/Lucky-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/luckytechhub/Lucky-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/luckytechhub/Lucky-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/forks/luckytechhub2/Lucky-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/luckytechhub2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/luckytechhub2/Lucky-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/luckytechhub2/Lucky-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/luckytechhub2/Lucky-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
 
   <!-- Hero GIF with updated border & hover effect -->
@@ -35,7 +35,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/luckytechhub/Lucky-XD/fork"><img src="https://img.shields.io/github/forks/luckytechhub/Lucky-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20LUCKY-XD" alt="Fork LUCKY-XD" /></a>
+<a href="https://github.com/luckytechhub2/Lucky-XD/fork"><img src="https://img.shields.io/github/forks/luckytechhub2/Lucky-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20LUCKY-XD" alt="Fork LUCKY-XD" /></a>
 
 ---
 
@@ -49,17 +49,17 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🟢 Pair Code Authentication
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://new-session-x1e9.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://lucky-xd-pair-1.onrender.com/pair)
 
 > 🔵 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com/qr)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucky-xd-pair-1.onrender.com/qr)
 
 
 
 #### 🧩 Session App
 
-[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://new-session-x1e9.onrender.com)
+[![Session App](https://img.shields.io/badge/Session%20App-000000?style=for-the-badge&logo=react&logoColor=white)](https://lucky-xd-pair-1.onrender.com)
 
 
 
@@ -75,13 +75,13 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/luckytechhub2/Lucky-XD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/luckytechhub2/Lucky-XD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deploy LUCKY-XD Anywhere</h2>
@@ -91,12 +91,12 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 <div align="left" style="margin-left: 20px; font-size: 1.05em; line-height: 2.2em;">
 
 🔵 <b>Heroku:</b>  
-<a href="https://dashboard.heroku.com/new?template=https://github.com/luckytechhub/Lucky-XD" target="_blank">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/luckytechhub2/Lucky-XD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-Deploy-7A3E9D?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
 </a>
 
 💗 <b>Koyeb:</b>  
-<a href="https://app.koyeb.com/services/deploy?type=git&repository=luckytechhub/Lucky-XD" target="_blank">
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=luckytechhub2/Lucky-XD" target="_blank">
   <img src="https://img.shields.io/badge/Koyeb-Deploy-FF2D95?style=flat-square&logo=koyeb&logoColor=white" alt="Koyeb">
 </a>
 
@@ -183,7 +183,7 @@ jobs:
 > Get the latest LUCKY-XD bot zip file for panel-based deployment:
 
 <div align="left">
-  <a href="https://github.com/luckytechhub/Lucky-XD/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/luckytechhub2/Lucky-XD/archive/refs/heads/main.zip" target="_blank">
     <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
   </a>
 </div>
@@ -247,7 +247,7 @@ jobs:
 
 > Built with ❤️ by **Lucky 218**
 
-- 👤 [Lucky 218](https://github.com/luckytechhub) — Creator & Maintainer  
+- 👤 [Lucky 218](https://github.com/luckytechhub2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 ---
@@ -255,13 +255,13 @@ jobs:
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/luckytechhub">
+  <a href="https://github.com/luckytechhub2">
     <img src="https://github-readme-stats.vercel.app/api?username=luckytechhub&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/luckytechhub/Lucky-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/luckytechhub2/Lucky-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
 ---
@@ -287,4 +287,4 @@ jobs:
 # License: APACHE
 ```
 
-<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/luckytechhub/Lucky-XD/stargazers"> <img src="http://reporoster.com/stars/dark/luckytechhub/Lucky-XD" alt="Stargazers repo roster for @luckytechhub/Lucky-XD"> </a> </p> <p align="center"> <a href="https://github.com/luckytechhub/Lucky-XD/network/members"> <img src="http://reporoster.com/forks/dark/luckytechhub/Lucky-XD" alt="Forkers repo roster for @luckytechhub/Lucky-XD"> </a> </p> 
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/luckytechhub2/Lucky-XD/stargazers"> <img src="http://reporoster.com/stars/dark/luckytechhub2/Lucky-XD" alt="Stargazers repo roster for @luckytechhub2/Lucky-XD"> </a> </p> <p align="center"> <a href="https://github.com/luckytechhub2/Lucky-XD/network/members"> <img src="http://reporoster.com/forks/dark/luckytechhub2/Lucky-XD" alt="Forkers repo roster for @luckytechhub2/Lucky-XD"> </a> </p> 
